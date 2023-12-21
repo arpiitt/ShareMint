@@ -11,8 +11,6 @@ Ethereum Blockchain Transactions: The Ethereum blockchain is utilized to record 
 
 ethers.js Integration: Interaction with the Ethereum blockchain is facilitated by ethers.js, a powerful JavaScript library for working with Ethereum. ShareMint leverages ethers.js to perform efficient and secure transactions on the blockchain.
 
-User-Friendly Interface: The application is built using modern web technologies, including HTML, CSS, JavaScript, and React, to provide users with an intuitive and seamless experience.
-
 Smart Contracts with Solidity: The smart contracts, responsible for managing image transactions on the Ethereum blockchain, are implemented in Solidity, a language specifically designed for smart contract development.
 
 Pinata API: ShareMint integrates with the Pinata API for managing IPFS content, ensuring robust file management on the IPFS network.
