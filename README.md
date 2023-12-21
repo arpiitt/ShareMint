@@ -19,30 +19,7 @@ Pinata API: ShareMint integrates with the Pinata API for managing IPFS content, 
 
 Hardhat Development Environment: The development environment is set up using Hardhat, a popular tool for compiling, deploying, and testing Ethereum smart contracts.
 
-Getting Started
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/ShareMint.git
-Install Dependencies:
-
-bash
-Copy code
-cd ShareMint
-npm install
-Configure Ethereum Wallet:
-Create a .env file and provide your Ethereum wallet private key. Ensure that you use a testnet wallet for development purposes.
-
-makefile
-Copy code
-REACT_APP_PRIVATE_KEY=your_private_key
-Run the Application:
-
-sql
-Copy code
-npm start
-The application will be accessible at http://localhost:3000.
+Ethereum wallet private key. Ensure that you use a testnet wallet for development purposes.
 
 Contributing
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new features.
